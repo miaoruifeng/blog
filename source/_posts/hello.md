@@ -15,6 +15,9 @@ categories:
 这是段落
 > 这是引用
 
+![](/blog/images/1.jpg)
+![2.jpg](http://ww1.sinaimg.cn/large/0077Rz1Cgy1galm9xz80lj30je04gjrj.jpg)
+
 - 无序列表
 - 无序列表
 - 无序列表
